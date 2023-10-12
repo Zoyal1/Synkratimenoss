@@ -10,13 +10,13 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAjQGJJtQTE5PlSdxv2YjkQz5nbysrgsI4",
-  authDomain: "synkratimenos.firebaseapp.com",
-  projectId: "synkratimenos",
-  storageBucket: "synkratimenos.appspot.com",
-  messagingSenderId: "320474131709",
-  appId: "1:320474131709:web:dc975d9c38e0b7cb922294",
-  measurementId: "G-C6QXJ4LF1Y"
+  apiKey: "AIzaSyAi7jie6lpuKL6TiJ3bf6JwJbmJ8jQMAPs",
+  authDomain: "synkratimenos-20423.firebaseapp.com",
+  projectId: "synkratimenos-20423",
+  storageBucket: "synkratimenos-20423.appspot.com",
+  messagingSenderId: "493841213937",
+  appId: "1:493841213937:web:b4c9653f36195c4a123c50",
+  measurementId: "G-WXJNBLC48L"
 };
 
 // Initialize Firebase
