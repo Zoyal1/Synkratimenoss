@@ -65,7 +65,7 @@ const Schedule = () => {
   return (
     <>
       {/* Jadwal Mapel */}
-      <div className="text-white px-[10%]" id="Home">
+      <div className="text-white px-[10%]" id="Schedule">
 			<Navbar />
 			<div className="lg:hidden">
 	 <div className="font-bold text-5xl text-center py-20 ">Jadwal Berubah Sesuai Hari</div>
