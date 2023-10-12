@@ -31,19 +31,19 @@ const Schedule = () => {
   // Menentukan kelompok piket berdasarkan minggu saat ini
   if (currentWeek === 1 || currentWeek === 3) {
     piketGroup = [
-      ["Nicolas", "Togi", "Paulista", "Damar"],
-      ["Farel", "Jeriko", "Wahyu", "Davina"],
-      ["Alya", "Hendri", "Hisyam", "Dafy"],
-      ["Putri", "Natar", "Wahid", "Fadliansyah"],
-      ["Cariska", "Pratiwi", "Ridho", "Farji"],
+      ["Jilwah Hardianti", "Davi Ferdiansyah", "Qurratu Aeni Lutfiah", "Muhammad Andrianyah"],
+      ["Muhammad Farris Aldrich", "Shaquilla Manika Mahya", "Vito Akbar", "Don Anargya Ramadhan"],
+      ["Ahmad Alif Fadhillah", "Evan Akmal Obama", "Khairunisa Putri Listianto"],
+      ["Pranaja Rafif Daffa Perdana", "Bilqis Zhafif Khumaira", "Ahmad Akbar Abdushabur", "Alie Akbar Rafsanjani"],
+      ["Muhammad Khairan Yafist", "Ghisa Aufa Rahma", "Angga Eka Syahputra"],
     ];
   } else if (currentWeek === 2 || currentWeek === 4) {
     piketGroup = [
-      ["Annissa", "Daus", "Eki", "Attala"],
-      ["Sera", "Sultan", "Dimas", "Lista"],
-      ["Windi", "Amel", "Arif", "Fadli"],
-      ["Zaini", "Dendi", "Raka", "Bari"],
-      ["Putri", "Paulista", "Nila"],
+      ["Jilwah Hardianti", "Davi Ferdiansyah", "Qurratu Aeni Lutfiah", "Muhammad Andrianyah"],
+      ["Muhammad Farris Aldrich", "Shaquilla Manika Mahya", "Vito Akbar", "Don Anargya Ramadhan"],
+      ["Ahmad Alif Fadhillah", "Evan Akmal Obama", "Khairunisa Putri Listianto"],
+      ["Pranaja Rafif Daffa Perdana", "Bilqis Zhafif Khumaira", "Ahmad Akbar Abdushabur", "Alie Akbar Rafsanjani"],
+      ["Muhammad Khairan Yafist", "Ghisa Aufa Rahma", "Angga Eka Syahputra"],
     ];
   }
 
