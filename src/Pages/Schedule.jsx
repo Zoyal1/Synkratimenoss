@@ -66,9 +66,9 @@ const Schedule = () => {
     <>
       {/* Jadwal Mapel */}
 <div className="flex justify-center items-center flex-col h-[100vh]">
-					<h1 className="text-7xl font-extrabold" id="Glow">
+					<div className="text-7xl font-extrabold" id="Glow">
 						Jadwal Berubah Sesuai Hari
-					</h1>
+					</div>
 	    <div className="lg:flex lg:justify-center lg:gap-32 lg:mb-10 lg:mt-16 ">
         <div className="text-white flex flex-col justify-center items-center mt-8 md:mt-3 overflow-y-hidden">
           <div
