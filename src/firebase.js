@@ -15,7 +15,8 @@ const firebaseConfig = {
   projectId: "synkratimenos",
   storageBucket: "synkratimenos.appspot.com",
   messagingSenderId: "320474131709",
-  appId: "1:320474131709:web:dc975d9c38e0b7cb922294"
+  appId: "1:320474131709:web:dc975d9c38e0b7cb922294",
+  measurementId: "G-C6QXJ4LF1Y"
 };
 
 // Initialize Firebase
